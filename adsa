@@ -1,0 +1,35 @@
+[33mcommit 80c9b311c8cc04bab1b385446767376a1b42d461[m[33m ([m[1;36mHEAD -> [m[1;32mEJAUNIV[m[33m, [m[1;31morigin/EJAUNIV[m[33m)[m
+Author: Ivan Junior <ivan.junior@ericsson.com>
+Date:   Mon Oct 31 13:54:30 2022 -0300
+
+    Implementing Tests
+
+[33mcommit 2c57b16e44f8980c41c909df2dac09e8de413e25[m
+Author: Ivan Junior <ivan.junior@ericsson.com>
+Date:   Mon Oct 31 13:43:03 2022 -0300
+
+    Implementing Tests
+
+[33mcommit 0f86f71ce486671c66658079b7d02a01e47451f5[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ivan Junior <ivan.junior@ericsson.com>
+Date:   Tue Oct 18 14:42:06 2022 -0300
+
+    Update CRUDE and Entities
+
+[33mcommit 0d9245fe4d65e84b016c04782333ce9d7ca458c0[m
+Author: Ivan Junior <ivan.junior@ericsson.com>
+Date:   Mon Oct 17 04:47:16 2022 -0300
+
+    Right Side done!
+
+[33mcommit 84beceadfb058f7d30c862c5a8ff4b0ceb4f0168[m
+Author: Ivan Junior <ivan.junior@ericsson.com>
+Date:   Thu Oct 13 10:32:48 2022 -0300
+
+    User Resource, User Entities, H2
+
+[33mcommit 12ace578ac07169eeb716040014c22ba00b4fec6[m
+Author: Ivanjrr <Ivanjrr99@gmail.com>
+Date:   Thu Oct 13 08:22:18 2022 -0300
+
+    Project Created
